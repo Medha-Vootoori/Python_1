@@ -21,18 +21,3 @@ if length_of_list:
             print("INVALID INPUT")
 else:
     print("NO INPUT")
-
-
-
-
-
-
-
-
-
-"""from phonenumbers import carrier
-service_number=phonenumbers.parse(number, "RO")
-print("Service Name: ",end="")
-print(carrier.name_for_number(service_number, "en"))
-
-"""
